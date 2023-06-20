@@ -30,7 +30,7 @@ Muestre una alerta con el texto ingresado cuando se haga clic en un botón.
 
 5. Tarea: Configuración de Repositorio Git y Subida
 
-Haz commit de todos los archivos con un mensaje descriptivo. *Los commits deben ser por caractiristica agregada no se deben subir todos los archivos en un solo commit* vease: [Tutorial de Git para profesionales](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=441s&pp=ugMGCgJlcxABugUEEgJlc8oFBGdpdCA%3D)
+Haz commit de todos los archivos con un mensaje descriptivo. **Los commits deben ser por caractiristica agregada no se deben subir todos los archivos en un solo commit** vease: [Tutorial de Git para profesionales](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=441s&pp=ugMGCgJlcxABugUEEgJlc8oFBGdpdCA%3D)
 Sube los cambios confirmados al repositorio remoto en GitHub.
 
 Estas tareas cubren los conceptos básicos de la estructura HTML, el estilo CSS, la funcionalidad JavaScript y el uso de Git. El candidato puede completar cada tarea en archivos separados y subirlos a un repositorio de GitHub.
